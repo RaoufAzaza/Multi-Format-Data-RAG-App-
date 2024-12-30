@@ -1,0 +1,7 @@
+together
+pandas
+streamlit
+llama-index
+docling
+huggingface-hub
+openpyxl
