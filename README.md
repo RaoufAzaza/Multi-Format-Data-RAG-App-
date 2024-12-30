@@ -68,6 +68,8 @@ Pandas and HuggingFace for their great libraries that simplify data handling and
 Contact:
 
 For any questions or inquiries, feel free to contact me:
+
 Email: raouf.azaza98@gmail.com
+
 GitHub: RaoufAzaza
 
