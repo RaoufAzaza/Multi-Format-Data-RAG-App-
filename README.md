@@ -53,23 +53,21 @@ The application will open in your browser, and you can start interacting with it
 ```
 streamlit run app.py
 ```
-Contributing
+
+Contributing:
+
 Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and create a pull request. Here's how you can contribute:
 
-Fork the repository.
-Create a new branch for your changes.
-Make your changes and test them.
-Submit a pull request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+Acknowledgments:
+
 Together AI for providing the powerful API that powers the application.
 Streamlit for creating an easy-to-use platform for building interactive apps.
 Pandas and HuggingFace for their great libraries that simplify data handling and search functionality.
-Contact
-For any questions or inquiries, feel free to contact me:
 
+Contact:
+
+For any questions or inquiries, feel free to contact me:
 Email: raouf.azaza98@gmail.com
 GitHub: RaoufAzaza
 
